@@ -11,11 +11,11 @@
  <Param name="MTK_ASR_SUPPORT" value="no" />
  <Param name="MTK_VOIP_NORMAL_DMNR" value="no" />
  <Param name="MTK_VOIP_HANDSFREE_DMNR" value="no" />
- <Param name="MTK_INCALL_NORMAL_DMNR" value="no" /> 
- <Param name="MTK_VOICE_UNLOCK_SUPPORT" value="no" />
- <Param name="MTK_VOICE_UI_SUPPORT" value="no" />
+ <Param name="MTK_INCALL_NORMAL_DMNR" value="yes" />
+ <Param name="MTK_VOICE_UNLOCK_SUPPORT" value="" />
+ <Param name="MTK_VOICE_UI_SUPPORT" value="" />
  <Param name="MTK_ACF_AUTO_GEN_SUPPORT" value="" />
- <Param name="MTK_SPEAKER_MONITOR_SUPPORT" value="no" /> 
+ <Param name="MTK_SPEAKER_MONITOR_SUPPORT" value="" />
  <Param name="MTK_AUDIO_BLOUD_CUSTOMPARAMETER_REV" value="MTK_AUDIO_BLOUD_CUSTOMPARAMETER_V5" />
  <Param name="MTK_MAGICONFERENCE_SUPPORT" value="no" />
  <Param name="MTK_HAC_SUPPORT" value="no" />
@@ -34,7 +34,7 @@
  <Param name="VIR_VOIP_NORMAL_DMNR_SUPPORT" value="no" />
  <Param name="VIR_VOIP_HANDSFREE_DMNR_SUPPORT" value="no" />
  <Param name="VIR_NO_SPEECH" value="no" />
- <Param name="VIR_INCALL_NORMAL_DMNR_SUPPORT" value="no" /> 
+ <Param name="VIR_INCALL_NORMAL_DMNR_SUPPORT" value="yes" />
  <Param name="VIR_INCALL_HANDSFREE_DMNR_SUPPORT" value="no" />
  <Param name="VIR_VOICE_UNLOCK_SUPPORT" value="" />
  <Param name="VIR_AUDIO_BLOUD_CUSTOMPARAMETER_V5" value="yes" />

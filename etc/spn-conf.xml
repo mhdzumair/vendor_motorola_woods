@@ -178,8 +178,8 @@
 <spnOverride numeric="26017" spn="Aero 2 Sp. z o.o."/>
 <spnOverride numeric="26201" spn="T-Mobile D"/>
 <spnOverride numeric="26202" spn="Vodafone.de"/>
-<spnOverride numeric="26203" spn="E-Plus"/>
-<spnOverride numeric="26207" spn="o2 - de"/>
+<spnOverride numeric="26203" spn="o2"/>
+<spnOverride numeric="26207" spn="o2"/>
 <spnOverride numeric="26208" spn="o2 - de"/>
 <spnOverride numeric="26601" spn="GIBTEL"/>
 <spnOverride numeric="26606" spn="CTS"/>
@@ -1138,7 +1138,7 @@
 <spnOverride numeric="25092" spn="MTS"/>
 <spnOverride numeric="25093" spn="MTS"/>
 <spnOverride numeric="26204" spn="Vodafone DE"/>
-<spnOverride numeric="26205" spn="E-Plus"/>
+<spnOverride numeric="26205" spn="o2"/>
 <spnOverride numeric="26206" spn="T-Mobile"/>
 <spnOverride numeric="26209" spn="Vodafone DE"/>
 <spnOverride numeric="26211" spn="o2"/>
@@ -1273,4 +1273,6 @@
 <spnOverride numeric="51009" spn="Smartfren"/>
 <spnOverride numeric="51088" spn="BoltSuper4G"/>
 <spnOverride numeric="51028" spn="Smartfren"/>
+<spnOverride numeric="26217" spn="o2"/>
+<spnOverride numeric="26277" spn="o2"/>
 </spnOverrides>
